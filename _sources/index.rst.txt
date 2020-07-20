@@ -1,0 +1,47 @@
+.. toctree::
+   :hidden:
+
+   advice.rst
+   notes.rst
+   projects.rst
+   schedule.rst
+   syllabus.rst
+
+Home
+####
+
+.. raw:: html
+
+   <h3>CIS 706/801: Translator Design I & II, Fall 2020</h3>
+
+----
+
+.. include:: def.rst
+
+The course will teach modern compiler techniques applied to general-purpose
+programming language.
+The goal of the course is to give students a working knowledge of the
+foundations, tools, and engineering approaches used in developing formal
+language translators.
+The emphasis is on the construction of compilers to position students to build
+translators for little languages in their careers.
+
+======================  =============================================
+**Schedule**            T U, 1:05-2:20pm, 1041 |Durland|
+**Instructor**          `Robby <http://cs.ksu.edu/~robby>`__,
+                        Office:       2181 |EngHall|,
+                        E-mail:       ``robby at ksu.edu``,
+                        Office Hours: by email appointment only
+======================  =============================================
+
+----
+
+* :ref:`syllabus`
+
+* :ref:`advice` (must read!)
+
+* :ref:`schedule`
+
+* :ref:`projects`
+
+* :ref:`notes`

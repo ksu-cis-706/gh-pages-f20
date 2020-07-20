@@ -1,0 +1,142 @@
+.. _schedule:
+
+Schedule
+########
+
+.. raw:: html
+
+   <h3>CIS 706/801: Translator Design I & II, Fall 2020</h3>
+
+----
+
+.. include:: def.rst
+
+**Links**
+
+* `Lecture Slides <http://goo.gl/jODYcY>`__
+
+* Canvas
+
+  * Lecture Videos
+
+  * Quizzes
+
+----
+
+.. list-table::
+   :widths: 10 25 30 15 20
+   :header-rows: 1
+
+   * - Week. Lab: Date
+     - Lectures
+     - Reading
+     - Lab
+     - Remarks
+   * - 1. T: Aug 18
+     - * Course Overview
+       * Scanners
+       * Parsers
+     - * Dragon Ch. 1 - 2.3 & Ch. 3
+       * `IntelliJ <https://www.jetbrains.com/idea/documentation/>`__ documentations & tutorials
+       * `Git <http://git-scm.com>`__ documentations & tutorials
+       * `JUnit <http://junit.org>`__ documentation & tutorials
+     -
+     - * Install |SireumIVE|
+       * Clone private repo https://github.com/ksu-cis-706/f20-706-<eid>
+       * Set up https://github.com/ksu-cis-706/f20-706-project as upstream (see `Working with Forks <https://help.github.com/articles/working-with-forks/>`__)
+   * - 2. T: Aug 25
+     - * Top-down Parsers
+       * ANTLR4
+     - * Dragon Ch. 2.4 - 2.9 & Ch. 4
+       * `ANTLR4 <http://antlr.org>`__ Book/Documentation
+     - Quiz 1: Scanners & Parsers
+     - * Demo: ANTLR v4 grammar plugin
+   * - 3. T: Sep 1
+     - * Abstract Syntax Tree
+       * Eclipse JDT
+     - * Dragon Ch. 4 & 5
+       * `Eclipse JDT Documentation <http://help.eclipse.org/>`__
+     - Quiz 2: Top-down Parsers
+     - * Solo Project 1: Scanner & Parser (due **Sep 14, 11:59pm, US Central**)
+   * - 4. T: Sep 8
+     - * Symbol Table
+       * Type Checking
+       * Bottom-up Parsers
+     - * Dragon Ch. 2.7 & Ch. 6.1 - 6.5
+     -
+     - * Demo: JDT AstView Plugin
+   * - 5. T: Sep 15
+     - * Virtual Machine
+       * Code Generation: Eclipse JDT to Java bytecode using ASM
+     - * Dragon Ch. 6.6 - 6.9 & Ch. 8.1-8.6
+     - Quiz 3: AST, Symbol Table, and Type Checking
+     - * Solo Project 2: Abstract Syntax Tree (due **Sep 28, 11:59, US Central**)
+   * - 6. T: Sep 22
+     - * Bytecode Optimization
+     - * Dragon Ch. 8.7
+       * `JVM Specification <http://java.sun.com/docs/books/jvms/>`__
+       * `ASM <http://asm.ow2.org>`__ Documentation and API
+     - Quiz 4: Virtual Machine & Bytecode Generation
+     -
+   * - 7. T: Sep 29
+     -
+     -
+     - Final Project
+     - * Solo Project 3: Type Checking (due **Oct 28, 11:59pm, US Central**)
+       * Final Project (due **Dec 10, 11:59pm, US Central**)
+   * - 8. T: Oct 6
+     - * Static Analysis -- Overview
+       * Static Analysis -- Control Flow Graph (CFG)
+       * Static Analysis -- Reaching Definition
+     - * Nielson-Nielson-Hankin Ch. 1
+       * Dragon Ch. 9
+     - Quiz 5: Bytecode Optimization
+     -
+   * - 9. T: Oct 20
+     - * Static Analysis -- Classic Problems
+       * Static Analysis -- Monotone Dataflow Framework
+     - * Nielson-Nielson-Hankin Ch. 2
+       * Dragon Ch. 9
+     - Quiz 6: CFG & Reaching Definition Analysis
+     - * Demo: ASM Bytecode Viewer Plugin
+       * Solo Project 4: Bytecode Generation (due **Oct 29, 11:59pm, US Central**)
+   * - 10. T: Oct 27
+     -
+     -
+     - Quiz 7: Static Analysis -- Classic Problems & Monotone Dataflow Framework
+     -
+   * - 11. T: Oct 30
+     -
+     -
+     - Quiz 5-7 Discussions
+     - * CIS 801 Solo Project: Static Analysis (due **Nov 30, 11:59pm, US Central**)
+   * - 12. T: Nov 3
+     -
+     -
+     - **Exam**: 1:05-2:55pm
+     -
+   * - 13. *No Lab*
+     -
+     -
+     -
+     - * Final Project
+   * - 14. *No Lab*
+     -
+     -
+     -
+     - * Final Project
+   * - A. **Thanksgiving Break**
+     -
+     -
+     -
+     -
+   * - 15. **Final Project Presentations**
+     -
+     -
+     -
+     -
+   * - 16. **U: Dec 10**
+     -
+     -
+     -
+     - * **Final Project Due**
