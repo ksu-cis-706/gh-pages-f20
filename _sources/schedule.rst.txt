@@ -82,7 +82,7 @@ Schedule
      -
      -
      - Final Project
-     - * Solo Project 3: Type Checking (due **Oct 28, 11:59pm, US Central**)
+     - * Solo Project 3: Type Checking (due **Oct 12, 11:59pm, US Central**)
        * Final Project (due **Dec 10, 11:59pm, US Central**)
    * - 8. T: Oct 6
      - * Static Analysis -- Overview
@@ -92,20 +92,20 @@ Schedule
        * Dragon Ch. 9
      - Quiz 5: Bytecode Optimization
      -
-   * - 9. T: Oct 20
+   * - 9. T: Oct 13
      - * Static Analysis -- Classic Problems
        * Static Analysis -- Monotone Dataflow Framework
      - * Nielson-Nielson-Hankin Ch. 2
        * Dragon Ch. 9
      - Quiz 6: CFG & Reaching Definition Analysis
      - * Demo: ASM Bytecode Viewer Plugin
-       * Solo Project 4: Bytecode Generation (due **Oct 29, 11:59pm, US Central**)
-   * - 10. T: Oct 27
+       * Solo Project 4: Bytecode Generation (due **Oct 26, 11:59pm, US Central**)
+   * - 10. T: Oct 20
      -
      -
      - Quiz 7: Static Analysis -- Classic Problems & Monotone Dataflow Framework
      -
-   * - 11. T: Oct 30
+   * - 11. T: Oct 27
      -
      -
      - Quiz 5-7 Discussions
