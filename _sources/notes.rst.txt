@@ -43,7 +43,7 @@ It is recommended that you use |SireumIVE| which provides all the required tools
 for the course in a single bundle.
 Once installed, you can found all the required tools under
 ``SIREUM_HOME/platform``.
-(Alternatively, you can also choose to use `Sireum IVE next-gen <https://github.com/sireum/kekinian>`__,
+(Alternatively, you can also choose to use `Sireum IVE next-gen <https://github.com/sireum/kekinian#sireum-a-high-assurance-system-engineering-platform>`__,
 which under active development; the subsequent paragraphs assume the former.)
 
 `Sireum IVE <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-integrated-verification-environment-ive>`__
