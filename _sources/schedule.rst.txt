@@ -51,7 +51,7 @@ Schedule
      - * Dragon Ch. 2.4 - 2.9 & Ch. 4
        * `ANTLR4 <http://antlr.org>`__ Book/Documentation
      - Quiz 1: Scanners & Parsers
-     - Demo: |Sireum IVE|
+     - * Demo: |SireumIVE|
    * - 3. T: Sep 1
      - * Abstract Syntax Tree
        * Eclipse JDT
