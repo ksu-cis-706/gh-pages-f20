@@ -47,10 +47,11 @@ Schedule
    * - 2. T: Aug 25
      - * Top-down Parsers
        * ANTLR4
+       * Demo: ANTLR v4 grammar plugin
      - * Dragon Ch. 2.4 - 2.9 & Ch. 4
        * `ANTLR4 <http://antlr.org>`__ Book/Documentation
      - Quiz 1: Scanners & Parsers
-     - * Demo: ANTLR v4 grammar plugin
+     - Demo: |Sireum IVE|
    * - 3. T: Sep 1
      - * Abstract Syntax Tree
        * Eclipse JDT
