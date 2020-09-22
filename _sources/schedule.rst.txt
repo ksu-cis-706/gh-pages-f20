@@ -78,7 +78,7 @@ Schedule
        * `JVM Specification <http://java.sun.com/docs/books/jvms/>`__
        * `ASM <http://asm.ow2.org>`__ Documentation and API
      - Quiz 4: Virtual Machine & Bytecode Generation
-     -
+     - * Demo: ASM Bytecode Viewer Plugin
    * - 7. T: Sep 29
      -
      -
@@ -99,8 +99,7 @@ Schedule
      - * Nielson-Nielson-Hankin Ch. 2
        * Dragon Ch. 9
      - Quiz 6: CFG & Reaching Definition Analysis
-     - * Demo: ASM Bytecode Viewer Plugin
-       * Solo Project 4: Bytecode Generation (due **Oct 26, 11:59pm, US Central**)
+     - * Solo Project 4: Bytecode Generation (due **Oct 26, 11:59pm, US Central**)
        * CIS 801 Solo Project: Static Analysis (due **Nov 30, 11:59pm, US Central**)
    * - 10. T: Oct 20
      -
