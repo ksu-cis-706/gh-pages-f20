@@ -135,7 +135,8 @@ Schedule
      -
      -
      -
-     - * U: Dec 3, 1pm: Schwartz
+     - * T: Dec 1, 1pm: Compton
+       * U: Dec 3, 1pm: Schwartz
        * U: Dec 3, 2pm: Archer
    * - 16. **U: Dec 10**
      -
