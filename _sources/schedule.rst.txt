@@ -26,6 +26,7 @@ Schedule
 .. list-table::
    :widths: 10 25 30 15 20
    :header-rows: 1
+   :align: left
 
    * - Week. Lab: Date
      - Lectures

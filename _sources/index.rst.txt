@@ -26,13 +26,16 @@ language translators.
 The emphasis is on the construction of compilers to position students to build
 translators for little languages in their careers.
 
-======================  =============================================
-**Schedule**            T U, 1:05-2:20pm, 1118 |EngHall|
-**Instructor**          `Robby <http://cs.ksu.edu/~robby>`__,
-                        Office:       2181 |EngHall|,
-                        E-mail:       ``robby at ksu.edu``,
-                        Office Hours: by email appointment only
-======================  =============================================
+.. table::
+   :align: left
+
+   ======================  =============================================
+   **Schedule**            T U, 1:05-2:20pm, 1118 |EngHall|
+   **Instructor**          `Robby <http://cs.ksu.edu/~robby>`__,
+                           Office:       2181 |EngHall|,
+                           E-mail:       ``robby at ksu.edu``,
+                           Office Hours: by email appointment only
+   ======================  =============================================
 
 ----
 
